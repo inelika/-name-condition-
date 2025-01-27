@@ -7,7 +7,6 @@ function convertname(name) {
       return `Добро пожаловать, ${name}`;
 
     }
-
 }
 console.log(convertname("Zhasmin"));
 console.log(convertname("Yenlik"));
